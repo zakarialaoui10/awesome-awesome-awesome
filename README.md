@@ -5,3 +5,4 @@ Awesome list of repositories of awesome lists 🤷
 * [jonatasbaldin/awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome)
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [orsinium/generated-awesomeness](https://github.com/orsinium/generated-awesomeness)
