@@ -7,3 +7,4 @@ Awesome list of repositories of awesome lists 🤷
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [orsinium/generated-awesomeness](https://github.com/orsinium/generated-awesomeness)
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+* [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch)
