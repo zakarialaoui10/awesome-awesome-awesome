@@ -9,3 +9,4 @@ Awesome list of repositories of awesome lists 🤷
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
 * [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [DevC-Casa/awesome-morocco](https://github.com/DevC-Casa/awesome-morocco/#readme)
